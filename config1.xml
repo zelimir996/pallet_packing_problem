@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+	<box width="300" height="400" depth="100" available="10" color="f0ff0000" />
+	<box width="100" height="80" depth="80" available="6" color="ff00ff00" />
+	<box width="55"  height="100" depth="20" available="8" color="ff0000ff" />
+</config>
